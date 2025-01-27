@@ -1,17 +1,13 @@
-# Hi there, I'm [Your Name] 👋 
-
-<div align="center">
-  <img src="[your-banner-image-url]" alt="Banner" width="100%"/>
-</div>
+# Hi there, I'm Chalana Prabhashwara 👋
 
 ## 👨‍💻 About Me
 
 ```typescript
 const developer = {
-    name: "Your Name",
+    name: "Chalana Prabhashwara",
     role: "Full Stack Developer",
     education: "Computer Science Student",
-    location: "Your Location",
+    location: "Sri Lanka",
     currentlyLearning: ["Cloud Architecture", "DevOps", "System Design"],
     interests: ["Open Source", "Tech Writing", "Problem Solving"]
 };
@@ -19,13 +15,10 @@ const developer = {
 
 - 🎓 Computer Science student passionate about building innovative solutions
 - 🚀 Currently exploring the world of Cloud Computing and DevOps
-- 📝 I regularly write articles on [your-blog-url]
 - 🤝 Open to collaborating on interesting projects
 - 💡 Always eager to learn new technologies
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -46,39 +39,28 @@ const developer = {
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GMchalana&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMchalana&theme=dark" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/your-username/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=dark" />
+  <a href="https://github.com/GMchalana/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GMchalana&repo=portfolio&theme=dark" />
   </a>
-  <a href="https://github.com/your-username/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=dark" />
+  <a href="https://github.com/GMchalana/HugsForBugs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GMchalana&repo=HugsForBugs&theme=dark" />
   </a>
 </div>
 
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/your-profile">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:chalana.prabhashwara@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -86,7 +68,7 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GMchalana&color=blueviolet" alt="Profile Views" />
   <br />
   <i>Happy Coding!</i> 😊
 </div>
