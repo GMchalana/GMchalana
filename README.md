@@ -5,7 +5,7 @@
 ```typescript
 const developer = {
     name: "Chalana Prabhashwara",
-    role: "Full Stack Developer",
+    role: "Full Stack Developer || Software Engineer || Data Architect",
     education: "Computer Science Student",
     location: "Sri Lanka",
     currentlyLearning: ["Cloud Architecture", "DevOps", "System Design"],
