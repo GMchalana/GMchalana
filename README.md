@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chalana</h1>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12E1FCE3&random=false&width=435&lines=~+Welcome+to+my+GitHub+Profile+~;Full+Stack+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Software+Engineer%2FUX+design%F0%9F%96%8C%EF%B8%8F;Insatiably+curious+about++Technology" alt="Typing SVG" /></a></p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12E1FCE3&random=false&width=500&lines=~+Welcome+to+my+GitHub+Profile+~;Full+Stack+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Software+Engineer%2FUX+Design%F0%9F%96%8C%EF%B8%8F;Data+Architect%F0%9F%93%88;IoT+Developer%F0%9F%9A%80;Insatiably+curious+about+Technology" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GMchalana&label=Profile%20views&color=0e75b6&style=flat" alt="GMchalana" /> </p>
 
