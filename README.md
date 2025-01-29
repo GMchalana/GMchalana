@@ -12,8 +12,8 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GMchalana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-- 🔭 I’m currently working on **React**
-- 🌱 I’m currently learning **at Institute of Technology University of Moratuwa**
+- 🔭 I’m currently working on **React || Angular || Node || SQL**
+- 🌱 I’m currently working **at Agro World (pvt)Ltd as Associate Software Engineer**
 - 📫 How to reach me **gmchalanaprabhashwara@gmail.com**
 
 ---
