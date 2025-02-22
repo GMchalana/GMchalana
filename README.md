@@ -37,6 +37,14 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves building 
 
 ---
 
+## 📈 My GitHub Journey
+
+- 🔭 I’m currently working on a **web app** for plant care management using Angular and Docker.
+- 🌱 I’m always learning new technologies, especially focusing on **cloud computing** and **CI/CD pipelines**.
+- 💬 **Ask me about** anything related to **Angular**, **Docker**, and **web development** in general.
+
+---
+
 ## 🌍 Connect with Me
 
 - 💼 **LinkedIn**: [Chalana Prabhashwara](https://www.linkedin.com/in/chalana-prabhashwara)
@@ -65,25 +73,8 @@ I’m always open to discussing new ideas, collaborating on interesting projects
 
 ---
 
-## 🎨 My GitHub Profile in Motion
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GMchalana/GMchalana/master/images/tech_animation.gif" width="600" alt="Tech Animation" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GMchalana&theme=github" alt="Activity Graph" width="100%" />
-</p>
-
----
-
-## 🎉 Profile View Counter
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GMchalana&label=Profile%20views&color=blue&style=flat" alt="Chalana's Profile Views" />
 </p>
 
+<!-- Add your animations or other creative touches below -->
