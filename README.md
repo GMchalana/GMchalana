@@ -1,95 +1,120 @@
-# 👋 Hi, I'm Chalana Prabhashwara
-
-Welcome to my GitHub space! I'm a passionate Full-Stack Developer specializing in **web and mobile development**, with a growing interest in **DevOps**, **cloud computing**, and **cybersecurity**. I enjoy building meaningful products, experimenting with modern technologies, and collaborating to solve real-world problems.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GMchalana&show_icons=true&theme=radical&count_private=true&hide=prs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMchalana&layout=compact&hide_title=true&langs_count=6&theme=radical" />
-</p>
-
----
-
-## 🔧 Tech Stack & Tools
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1b2&height=250&section=header&text=Chalana%20Prabhashwara&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <a href="https://chalana.miraqlabs.com/"><strong>Portfolio</strong></a> •
+  <a href="https://www.linkedin.com/in/chalana-prabhashwara/"><strong>LinkedIn</strong></a> •
+  <a href="mailto:your-email@example.com"><strong>Email</strong></a>
 </p>
 
----
-
-## 🚀 What I'm Working On
-
-- 🌿 Building a **plant care management system** with Angular and Docker
-- ☁️ Deep-diving into **AWS**, **CI/CD pipelines**, and **DevSecOps**
-- 🔐 Enhancing my cybersecurity skills with ethical hacking and Linux protection tools
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1B2&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;MERN+Stack+Specialist;IoT+Architect;Founder+of+Miraq+LABS" alt="Typing SVG" />
+</div>
 
 ---
 
-## 📌 Featured Projects
+### ⚡ About Me
+I am a **Full-Stack Developer** and **System Architect** focused on building high-performance web applications and hardware-integrated systems. I bridge the gap between complex backend logic and sleek, interactive frontends.
 
-- 🔐 **ATM Security & Efficiency System** – IoT + ML + Flutter
-- 🏨 **Hotel Management System** – Full-stack project using ReactJS & Node.js
-- 👨‍🎓 **Student Management System** – React + PHP + MySQL
-- 👕 **Garment Depth Calculator** – Java Swing desktop app
-- 🧪 **Chemical Testing Web App** – ReactJS + PHP for ITUM chemical division
-
-👉 View all at: [github.com/GMchalana](https://github.com/GMchalana)
+- 🛠️ Currently scaling **[Miraq LABS](https://chalana.miraqlabs.com/)**, providing cutting-edge web & system solutions.
+- 🌐 Expert in the **MERN Stack** (MongoDB, Express, React, Node.js) and **Next.js**.
+- 🔋 Specialized in **IoT Development**, specifically biometric systems and ESP32 integration.
+- 🚀 Passionate about **Cloud Architecture** and **Scalable Systems**.
 
 ---
 
-## 📚 Certifications
+### 🛠️ Tech Stack & Skills
 
-- ✅ AWS Cloud Practitioner | React Basics (Meta) | Docker & Kubernetes (Simplilearn)
-- ✅ Cybersecurity & Ethical Hacking (Udemy) | DevOps 101 | Python for Beginners
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="nextjs" />
+      <br />Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" alt="react" />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="nodejs" />
+      <br />Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="mongodb" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="tailwind" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=threejs" width="48" alt="threejs" />
+      <br />Three.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" alt="aws" />
+      <br />AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="docker" />
+      <br />Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" alt="typescript" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" alt="iot" />
+      <br />IoT/ESP32
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="github" />
+      <br />GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="vercel" />
+      <br />Vercel
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌱 Currently Learning
+### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud%20Security-AWS-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-ML-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins-yellow?style=for-the-badge&logo=jenkins" />
-  <img src="https://img.shields.io/badge/GraphQL-Fuchsia?style=for-the-badge&logo=graphql" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GMchalana&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMchalana&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</div>
 
----
-
-## 🌐 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/chalana-prabhashwara/)
-- 🌍 [Portfolio](https://gmchalana.github.io/portfolio/)
-- 🐱 [GitHub](https://github.com/GMchalana)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMchalana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🧠 Fun Facts
-
-- 💡 I love tackling new challenges in both **frontend** and **backend**.
-- 🎮 Gamer at heart — creativity thrives beyond code too!
-- ✨ I believe in writing **clean, scalable, and secure** code.
-
----
-
-## 🛠️ GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMchalana&theme=radical" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=GMchalana&label=Profile%20views&color=blue&style=flat" />
-</p>
+### 📂 Featured Projects
+- **[Miraq LABS Portfolio](https://chalana.miraqlabs.com/)** – A 3D-integrated professional showcase built with Next.js and Three.js.
+- **Biometric Attendance System** – A production-ready MERN + ESP32 system designed for industrial environments.
+- **ATM Security System** – An innovative fusion of IoT and Flutter for enhanced financial security.
 
 ---
 
-## 💬 Let's Build Together
+### 🤝 Let's Connect
+I'm always open to collaborating on innovative projects or discussing system architecture.
 
-Whether it's building a scalable web platform, launching an MVP, or contributing to open source—I'm open to collaboration and innovation. Let's build something great together!
+- **Website:** [chalana.miraqlabs.com](https://chalana.miraqlabs.com/)
+- **LinkedIn:** [in/chalana-prabhashwara](https://www.linkedin.com/in/chalana-prabhashwara/)
+- **Fiverr:** Available for custom Web & IoT solutions.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GMchalana&label=Profile%20Views&color=00d1b2&style=flat-square" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1b2&height=100&section=footer" />
+</div>
 
