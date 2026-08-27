@@ -1,301 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:00d1b2,100:06b6d4&height=280&section=header&text=CHALANA%20PRABHASHWARA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00D1B2&height=260&section=header&text=Hi,%20I'm%20Chalana%20👋&fontSize=48&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20IoT%20Architect%20%7C%20Co-Founder%20@%20Miraq%20LABS&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<br/>
+<a href="https://chalana.miraqlabs.com/"><img src="https://img.shields.io/badge/Portfolio-00D1B2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chalana-prabhashwara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=00D1B2&center=true&vCenter=true&width=750&lines=I+turn+ideas+into+working+systems.;Full-Stack+Engineer+%7C+System+Architect;Building+%40+Miraq+LABS;Software+%2B+Hardware+%2B+Cloud;Always+building.+Always+learning." />
-
-<br/><br/>
-
-<a href="https://chalana.miraqlabs.com/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00D1B2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/chalana-prabhashwara/">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=00D1B2"/>
-</a>
-<a href="https://github.com/GMchalana">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D1B2&center=true&vCenter=true&width=550&lines=Building+scalable+MERN+applications;Architecting+IoT+%2B+ESP32+systems;Turning+hardware+%2B+software+into+products;Co-Founder+%40+Miraq+LABS" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
----
+## ⚡ About Me
+
+I'm a **Full-Stack Developer & Systems Architect** who builds where hardware meets software — from biometric IoT devices to production-grade web platforms.
+
+```txt
+const chalana = {
+    role: "Full-Stack Engineer & IoT Architect",
+    company: "Co-Founder @ Miraq LABS",
+    stack: ["MERN", "Next.js", "TypeScript", "ESP32", "AWS"],
+    currentFocus: "Scalable web systems + biometric hardware integration",
+    funFact: "I debug hardware and code with the same cup of coffee ☕"
+};
+```
+
+- 🛠️ Building and scaling **[Miraq LABS](https://chalana.miraqlabs.com/)** — web & systems solutions for real-world problems
+- 🌐 Deep expertise in the **MERN Stack** and **Next.js**, with a strong eye for 3D/interactive front-ends
+- 🔋 Specialize in **IoT development** — biometric systems, ESP32 integration, embedded-to-cloud pipelines
+- 🚀 Driven by **cloud architecture**, scalability, and clean system design
+- 📡 Currently exploring deeper **edge-computing ↔ cloud** integration for IoT fleets
+
+<br/>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-### `// whoami`
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs" />
 
-**Engineer. Builder. Problem Solver.**
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 
-I love turning **crazy ideas → real products → systems that actually work.**
+**Infrastructure & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,github,git" />
+
+**IoT & Embedded**
+<br/>
+<img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi,flutter" />
 
 </div>
 
 <br/>
+
+## 📂 Featured Projects
 
 <table>
-<tr>
-<td width="55%" valign="top">
-
-## 🧠 About Me
-
-I'm a **Full-Stack Engineer & System Architect** who enjoys going beyond just writing code.
-
-I build things across the entire stack — from a **React interface**, to **backend architecture**, to **cloud infrastructure**, and sometimes all the way down to an **ESP32 connected to physical hardware.**
-
-Currently building **Miraq LABS**, where software meets real-world problems.
-
-<br/>
-
-> **I don't just want to write code.
-> I want to build things people use.**
-
-</td>
-
-<td width="45%" valign="top">
-
-```text
-╭────────────────────────────╮
-│                            │
-│   CHALANA.EXE              │
-│                            │
-│   FULL-STACK      ████████ │
-│   ARCHITECT       ███████░ │
-│   IoT             ██████░░ │
-│   CLOUD           ██████░░ │
-│   AI              █████░░░ │
-│                            │
-│   STATUS: BUILDING...      │
-│                            │
-╰────────────────────────────╯
-```
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Miraq LABS Portfolio</h3>
+      A 3D-integrated professional showcase built with <b>Next.js</b> and <b>Three.js</b>, designed for immersive client-facing presentation.
+      <br/><br/>
+      <a href="https://chalana.miraqlabs.com/">🔗 Live Site</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Biometric Attendance System</h3>
+      A production-ready <b>MERN + ESP32</b> system built for industrial environments — real-time sync, fault-tolerant hardware layer.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏧 ATM Security System</h3>
+      A fusion of <b>IoT</b> and <b>Flutter</b> engineered to strengthen financial security through embedded authentication.
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Freelance Solutions</h3>
+      Custom web & IoT builds delivered through Fiverr — from concept to deployed product.
+    </td>
+  </tr>
 </table>
 
----
-
-## ⚡ What I Love Building
-
-<div align="center">
-
-|    🌐 Web   |    ☁️ Cloud    |     🔌 IoT     |      🧠 Systems     |
-| :---------: | :------------: | :------------: | :-----------------: |
-| Modern Apps | Scalable Infra | Smart Hardware |     Architecture    |
-|     SaaS    |      APIs      |      ESP32     | Distributed Systems |
-|  Dashboards |     DevOps     |   Biometrics   |      Automation     |
-
-</div>
-
----
-
-## 🛠️ My Arsenal
-
-<div align="center">
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs" />
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
-
-### `CLOUD / DEVOPS`
-
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,github,linux" />
-
-### `HARDWARE`
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-
-</div>
-
----
-
-## 🚀 Things I've Built
-
-<div align="center">
-
-### 🏢 Miraq LABS
-
-**Building practical technology for real-world businesses.**
-
-`Software` · `SaaS` · `POS` · `IoT` · `Automation`
-
-<a href="https://chalana.miraqlabs.com/">
-<img src="https://img.shields.io/badge/EXPLORE_MIRAQ_LABS-00D1B2?style=for-the-badge&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### 🧬 Biometric Attendance System
-
-**MERN + ESP32 + Biometric Hardware**
-
-Real-time attendance infrastructure designed for environments where reliability matters.
-
-`ESP32` `Biometrics` `Node.js` `MongoDB` `REST API`
-
 <br/>
 
-### 🏧 ATM Security System
-
-**IoT + Flutter + Real-Time Monitoring**
-
-Connecting physical security systems with modern software architecture.
-
-`IoT` `ESP32` `Flutter` `Backend`
-
-<br/>
-
-### 🌌 3D Developer Portfolio
-
-**Next.js + Three.js**
-
-An interactive portfolio built around the idea that a developer portfolio shouldn't feel like a resume.
-
-<a href="https://chalana.miraqlabs.com/">
-<img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=00D1B2"/>
-</a>
-
-</div>
-
----
-
-## 🧩 How I Think
+## 📈 GitHub Analytics
 
 <div align="center">
-
-```text
-                    ┌───────────────┐
-                    │     IDEA      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    DESIGN     │
-                    └───────┬───────┘
-                            ↓
-              ┌─────────────┴─────────────┐
-              ↓                           ↓
-        ┌───────────┐               ┌───────────┐
-        │ SOFTWARE  │               │ HARDWARE  │
-        └─────┬─────┘               └─────┬─────┘
-              │                           │
-              └─────────────┬─────────────┘
-                            ↓
-                    ┌───────────────┐
-                    │    SYSTEM     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │ REAL WORLD 🚀 │
-                    └───────────────┘
-```
-
+  <img src="https://github-readme-stats.vercel.app/api?username=GMchalana&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" height="165em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMchalana&layout=compact&theme=tokyonight&hide_border=true" height="165em" />
 </div>
 
----
-
-## 🔥 Currently Building
-
 <div align="center">
-
-```text
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║              MIRAQ LABS                            ║
-║                                                    ║
-║   ███████████████████████░░  BUILDING              ║
-║                                                    ║
-║   → Business Software                              ║
-║   → Smart Systems                                  ║
-║   → IoT Solutions                                  ║
-║   → Cloud Platforms                                ║
-║   → AI-powered Automation                          ║
-║                                                    ║
-║              STATUS: SHIP IT 🚀                   ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMchalana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-## 📊 GitHub Activity
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GMchalana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1B2&icon_color=00D1B2&text_color=C9D1D9&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMchalana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1B2&text_color=C9D1D9&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GMchalana&theme=tokyonight&hide_border=true&background=0D1117&ring=00D1B2&fire=00D1B2&currStreakLabel=00D1B2"/>
-
-</div>
-
----
-
-## 💭 A Little Philosophy
-
-<div align="center">
-
-### *"The best way to predict the future is to build it."*
-
-<br/>
-
-I enjoy difficult problems.
-
-I enjoy learning things I don't know.
-
-I enjoy taking an idea that exists only in someone's head
-and turning it into something **real.**
-
-<br/>
-
-**That's why I build.**
-
-</div>
-
----
-
-## 🌐 Find Me
-
-<div align="center">
-
-<a href="https://chalana.miraqlabs.com/">
-<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-00D1B2?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/chalana-prabhashwara/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-111827?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/GMchalana">
-<img src="https://img.shields.io/badge/💻%20GITHUB-111827?style=for-the-badge"/>
-</a>
-
-<br/><br/>
-
-### `Keep building. Keep breaking. Keep learning. 🚀`
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=GMchalana&label=PROFILE%20VIEWS&color=00D1B2&style=flat-square"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMchalana&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 <br/>
 
+## 🤝 Let's Build Something
+
+I'm always open to collaborating on ambitious projects, system architecture discussions, or IoT builds that push boundaries.
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:00d1b2,100:0f172a&height=130&section=footer" width="100%"/>
+[![Portfolio](https://img.shields.io/badge/🌐_Website-chalana.miraqlabs.com-00D1B2?style=flat-square)](https://chalana.miraqlabs.com/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/chalana-prabhashwara/)
+[![Fiverr](https://img.shields.io/badge/🛒_Fiverr-Hire_Me-1DBF73?style=flat-square)](#)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=GMchalana&label=Profile%20Views&color=00d1b2&style=flat-square" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1B2,100:0F2027&height=120&section=footer" width="100%"/>
