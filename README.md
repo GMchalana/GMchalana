@@ -212,40 +212,6 @@ Some started as **"what if..."**
 
 ---
 
-## 🧠 How I Build
-
-<div align="center">
-
-```text
-       ┌───────────────┐
-       │     IDEA      │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │    EXPLORE    │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     BUILD     │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     BREAK     │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │    IMPROVE    │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     SHIP 🚀   │
-       └───────────────┘
-```
-
-</div>
-
----
-
 ## 🔥 Currently Exploring
 
 <div align="center">
@@ -272,9 +238,19 @@ I'm constantly experimenting with new technologies and looking for better ways t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GMchalana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1B2&icon_color=00D1B2&text_color=C9D1D9&count_private=true" height="180"/>
+<a href="https://github.com/GMchalana">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=GMchalana&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMchalana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1B2&text_color=C9D1D9&langs_count=8" height="180"/>
+<a href="https://github.com/GMchalana">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMchalana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
+</a>
 
 <br/><br/>
 
